@@ -51,7 +51,7 @@ Key configuration details:
 1. Clone the repository:
    ```bash
    git clone https://github.com/garroshub/Credit_Risk_Model-Kaggle-.git
-   cd Credit_Risk_Model-Kaggle-
+   cd Credit_Risk_Model_Kaggle
    ```
 
 2. Install the required dependencies:
